@@ -12,7 +12,7 @@ Ensure you have the following installed on your machine:
 
 1. Clone the repository
 git clone git@github.com:Chiragjethwa6/backend_assignment.git
-cd backend_assignment/baclend_app 
+cd backend_assignment/backend_app 
 
 2. Set up a virtual environment
 python -m venv venv
